@@ -1,4 +1,4 @@
-# Citibike Trip Sharing
+# Citi Bike Program Analysis
 
 ## Overview
 
@@ -37,3 +37,5 @@ These two figures show the top starting and ending locations, respectively, for 
 All in all, the Citi Bike program appears to be both practical and profitable in New York City given its scale and demographics. However, the same may not ring true for a smaller city like Des Moines. The majority of rides in New York City are, presumably, taken by people commuting to and from work. This works because commute distances are small for people living and working in dense areas like Manhattan. A visualization of population density in Des Moines and the surrounding area would provide insight into whether a bike sharing program would be practical for commuters, as commutes of great lengths would not lend themselves to bicycle usage.
 
 Additionally, car ownership in the Des Moines area would be another metric by which we could evaluate the feasibility of a bikesharing program. The Citi Bike program in New York City works so well because many people living in the city, and specifically in Manhattan, do not own cars they can use for their daily commutes. If the majority of people in Des Moines are car owners, they would be less likely to use a bikesharing program for their commute.
+
+Finally, seeing these same visualizations for different times of year might be helpful as well. It is safe to assume that temperature and weather affect bikesharing usage, so if we peered into a time other than one single August in New York City, we might see some patterns emerging. If bikeshare usage is low during months with weather analogous to weather experienced in Des Moines for long periods during the year, the predicted profitability of such a program in Des Moines would be lower.
